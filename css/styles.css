@@ -19,3 +19,13 @@ body{
   margin-left: 650px;
   margin-right: 650px;
 }
+.f1{
+  float: none;
+  color: #FFFFFF;
+  width: auto;
+  background-color: #626162;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bolder;  
+}
