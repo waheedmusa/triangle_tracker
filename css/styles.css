@@ -40,3 +40,12 @@ input[type=number]{
   border-radius: 10px;
   border-color: #D6D1D1;
 }
+.button{
+  background-color: #FFA500;
+  color: #000000;
+  font-size: 25px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  width: 14.5%;
+}
