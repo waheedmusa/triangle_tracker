@@ -32,5 +32,11 @@ body{
   width: 1000px;
   margin-left: 425px;
   box-shadow: 10px 10px 50px #696969b3;
-  border-radius: 25px;  
+  border-radius: 25px;
+}
+input[type=number]{
+  width: 30%;
+  display: inline-block;
+  border-radius: 10px;
+  border-color: #D6D1D1;
 }
