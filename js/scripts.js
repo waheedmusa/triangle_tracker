@@ -16,4 +16,7 @@ result.textContent=("This is an isosceles.");
 else if(side1 === side2 || side1 === side3 || side2 === side3){
 result.textContent=("This is an isosceles.");
 }
+else if(isNaN(side1) || isNaN(side2) || isNaN(side3)){
+result.textContent=("Please input values.");
+}
 }
