@@ -1,3 +1,6 @@
+@import url("bootstrap.css");
+@import url("fonts.css");
+
 body{
   background-image: url(../images/arcade.jpg);
   background-position: center;
@@ -13,9 +16,10 @@ body{
   font-family: sans-serif;
   text-align: center;
   padding-top: 20px;
+  margin-top: 50px;
+  border-radius: 15px;
   padding-left: 10px;
   padding-right: 10px;
-  margin-top: 50px;
   margin-left: 650px;
   margin-right: 650px;
 }
@@ -25,10 +29,10 @@ body{
   width: auto;
   background-color: #626162;
   text-align: center;
+  padding-top: 40px;
   font-family: sans-serif;
   font-size: 30px;
   font-weight: bolder;
-  padding-top: 40px;
   width: 1000px;
   margin-left: 425px;
   box-shadow: 10px 10px 50px #696969b3;
