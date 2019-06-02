@@ -13,4 +13,7 @@ result.textContent=("This is a equilateral triangle.");
 else if(side1 === side2 || side1 === side3 || side2 === side3){
 result.textContent=("This is an isosceles.");
 }
+else if(side1 === side2 || side1 === side3 || side2 === side3){
+result.textContent=("This is an isosceles.");
+}
 }
