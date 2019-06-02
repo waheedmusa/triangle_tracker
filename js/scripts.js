@@ -8,7 +8,7 @@ var pass = function(side1,side2,side3){
   return side1+side2>side3 && side2+side3>side1 && side3+side1>side2
 }
 if(side1===side2 && side2===side3){
-result.textContent=("This is a equilateral triangle.");
+result.textContent=("This is an equilateral triangle.");
 }
 else if(side1 === side2 || side1 === side3 || side2 === side3){
 result.textContent=("This is an isosceles.");
